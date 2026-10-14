@@ -1,4 +1,4 @@
-# Man-In-The-Chisme
+# Panoptico
 Herramienta de reconocimiento pasivo/activo de red con GUI en Tkinter. 
 Hace ARP spoofing de subred completa vía bettercap (opcional) y captura tráfico con tshark, infiriendo SO por dispositivo (User-Agent, cabecera Server de HTTP/SSDP, NBNS, LLMNR, DHCP) y catalogando dominios visitados por servicio (streaming, redes sociales, gaming, etc.). Incluye un grafo de topología en vivo (gateway al centro, dispositivos alrededor).
 
